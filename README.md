@@ -1,4 +1,4 @@
-# Bio-Inspired Robotic Flower (Heliotropism Simulator)
+# Bio-Inspired Robotic Flower
 
 A modular robotic system built on the **Arduino** platform that emulates the biological behavior of plants—specifically **heliotropism** (orienting towards light) and interactive "blooming" through proximity sensing.
 
